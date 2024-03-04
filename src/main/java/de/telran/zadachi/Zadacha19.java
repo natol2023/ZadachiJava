@@ -8,4 +8,5 @@ public class Zadacha19 {
         System.out.println(uppercaseString);
     }
 }
+
 //метод toUpperCase() для преобразования каждого символа строки к верхнему регистру
